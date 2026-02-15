@@ -9,16 +9,16 @@ body {
     justify-content: center;
     align-items: center;
     min-height: 100vh;
-    background-color: wheat;
+    background-color: whitesmoke;
 }
 .easy-form-box {
     width: 380px;
     min-height: 500px;
     position: relative;
-    background: #c09061;
+    background: white;
     padding: 20px;
     border-radius: 16px;
-    box-shadow: 0 10px 30px rgba(0,0,0,0.25);
+    box-shadow: 0 10px 30px rgb(145, 127, 129);
     overflow: hidden;
 }
 .easy-toggle-box {
@@ -26,7 +26,7 @@ body {
     margin: 35px auto;
     position: relative;
     border-radius: 30px;
-    box-shadow: 0 0 20px 9px whitesmoke;
+    box-shadow: 0 0 20px 9px rgb(199, 184, 184);
     background: #fff;
 }
 .easy-toggle-btn {
