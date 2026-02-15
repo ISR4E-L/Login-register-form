@@ -11,4 +11,4 @@ function easyLogin() {
     registerGroup.style.left = "450px";
     slider.style.left        = "0px";
 }
-easyLogin();
+easyRegister();

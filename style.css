@@ -122,3 +122,32 @@ body {
 .footer-links {
     margin-left: 8px;
 }
+.easy-welcome-box {
+    width: 800px;
+    min-height: 500px;
+    background: white;
+    padding: 80px 70px;
+    border-radius: 15px;
+    box-shadow: 0 10px 30px rgb(145, 127, 129);
+    margin-right: 40px;
+    position: relative;
+}
+.easy-welcome-box h2 {
+    font-size: 50px;
+    background: linear-gradient(to right, #e4e45c, #8e88d8);
+    background-clip: text;           
+    -webkit-background-clip: text;   
+    color: transparent;          
+    -webkit-text-fill-color: transparent;
+    margin-bottom: 15px;
+}
+.easy-welcome-box .welcome-subtitle {
+    font-size: 25px;
+    color: #8e88d8;
+    margin-bottom: 18px;
+}
+.easy-welcome-box p {
+    font-size: 20px;
+    color: #444;
+    line-height: 2;
+}
